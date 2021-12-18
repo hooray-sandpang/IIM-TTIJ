@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Our projects list
+https://github.com/stars/IIM-TTIJ/lists/our-projects

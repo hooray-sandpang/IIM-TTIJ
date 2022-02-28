@@ -1,4 +1,4 @@
-### Hi there 👋
+# Intelligent Information Media(IIM) Lab. at Toyota Technological Institute (TTI-J)
 
 <!--
 **IIM-TTIJ/IIM-TTIJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
